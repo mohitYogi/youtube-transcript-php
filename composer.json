@@ -1,0 +1,22 @@
+{
+    "name": "foolishdude/youtube-transcript-php",
+    "description": "A translation from python to php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Foolishdude\\YoutubeTranscriptPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohit Yogi",
+            "email": "20014551+mohitYogi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}

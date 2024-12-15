@@ -1,0 +1,2 @@
+<?php
+// Transcript.php
